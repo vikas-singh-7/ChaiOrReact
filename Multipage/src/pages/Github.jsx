@@ -43,13 +43,13 @@ const Github = () => {
               <p class="mt-3 text-sm text-gray-600">{Data.bio}</p>
               <div class="mt-4">
                 <span class="mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900">
-                  #Lear
+                  #Learn
                 </span>
                 <span class="mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900">
                   #Work
                 </span>
                 <span class="mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900">
-                  #Learn More
+                  #Enjoy
                 </span>
               </div>
               <div class="mt-3 flex items-center space-x-2">
